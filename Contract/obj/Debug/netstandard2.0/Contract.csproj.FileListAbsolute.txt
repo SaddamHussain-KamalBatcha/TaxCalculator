@@ -1,0 +1,8 @@
+C:\Users\AK6N\Source\Repos\TaxCalculator\Contract\bin\Debug\netstandard2.0\Contract.deps.json
+C:\Users\AK6N\Source\Repos\TaxCalculator\Contract\bin\Debug\netstandard2.0\Contract.dll
+C:\Users\AK6N\Source\Repos\TaxCalculator\Contract\bin\Debug\netstandard2.0\Contract.pdb
+C:\Users\AK6N\Source\Repos\TaxCalculator\Contract\obj\Debug\netstandard2.0\Contract.csproj.CoreCompileInputs.cache
+C:\Users\AK6N\Source\Repos\TaxCalculator\Contract\obj\Debug\netstandard2.0\Contract.AssemblyInfoInputs.cache
+C:\Users\AK6N\Source\Repos\TaxCalculator\Contract\obj\Debug\netstandard2.0\Contract.AssemblyInfo.cs
+C:\Users\AK6N\Source\Repos\TaxCalculator\Contract\obj\Debug\netstandard2.0\Contract.dll
+C:\Users\AK6N\Source\Repos\TaxCalculator\Contract\obj\Debug\netstandard2.0\Contract.pdb

@@ -1,0 +1,12 @@
+C:\Users\AK6N\Source\Repos\TaxCalculator\Repository\bin\Debug\netstandard2.0\Repository.deps.json
+C:\Users\AK6N\Source\Repos\TaxCalculator\Repository\bin\Debug\netstandard2.0\Repository.dll
+C:\Users\AK6N\Source\Repos\TaxCalculator\Repository\obj\Debug\netstandard2.0\Repository.AssemblyInfoInputs.cache
+C:\Users\AK6N\Source\Repos\TaxCalculator\Repository\obj\Debug\netstandard2.0\Repository.AssemblyInfo.cs
+C:\Users\AK6N\Source\Repos\TaxCalculator\Repository\bin\Debug\netstandard2.0\Repository.pdb
+C:\Users\AK6N\Source\Repos\TaxCalculator\Repository\obj\Debug\netstandard2.0\Repository.dll
+C:\Users\AK6N\Source\Repos\TaxCalculator\Repository\obj\Debug\netstandard2.0\Repository.pdb
+C:\Users\AK6N\Source\Repos\TaxCalculator\Repository\obj\Debug\netstandard2.0\Repository.csprojAssemblyReference.cache
+C:\Users\AK6N\Source\Repos\TaxCalculator\Repository\obj\Debug\netstandard2.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\AK6N\Source\Repos\TaxCalculator\Repository\bin\Debug\netstandard2.0\Contract.dll
+C:\Users\AK6N\Source\Repos\TaxCalculator\Repository\bin\Debug\netstandard2.0\Contract.pdb
+C:\Users\AK6N\Source\Repos\TaxCalculator\Repository\obj\Debug\netstandard2.0\Repository.csproj.CopyComplete
