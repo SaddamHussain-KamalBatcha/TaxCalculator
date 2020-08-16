@@ -1,4 +1,0 @@
-C:\Users\AK6N\Source\Repos\TaxCalculator\TaxCalculator\obj\Debug\netcoreapp2.0\TaxCalculator.csprojAssemblyReference.cache
-C:\Users\AK6N\Source\Repos\TaxCalculator\TaxCalculator\obj\Debug\netcoreapp2.0\TaxCalculator.csproj.CoreCompileInputs.cache
-C:\Users\AK6N\Source\Repos\TaxCalculator\TaxCalculator\obj\Debug\netcoreapp2.0\TaxCalculator.AssemblyInfoInputs.cache
-C:\Users\AK6N\Source\Repos\TaxCalculator\TaxCalculator\obj\Debug\netcoreapp2.0\TaxCalculator.AssemblyInfo.cs
