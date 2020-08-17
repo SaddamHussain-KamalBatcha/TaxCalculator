@@ -31,23 +31,34 @@ namespace Repository
                 }
                 if (x.TaxSlab == "weekly")
                 {
-                    if (x.FromDate == date)
-                        return x.TaxRate;
+                    return CalculateTaxRate(date, x);
                 }
                 if (x.TaxSlab == "monthly")
                 {
-                    if (x.FromDate == date)
-                        return x.TaxRate;
+                    return CalculateTaxRate(date, x);
+
                 }
                 if (x.TaxSlab == "yearly")
                 {
-                    if (x.FromDate == date)
-                        return x.TaxRate;
+                    return CalculateTaxRate(date, x);
                 }
             }
             return 0;
         }
 
+        private static float CalculateTaxRate(string date, TaxInfo x)
+        {
+            DateTime.TryParse(date, out DateTime inputDate);
+            DateTime.TryParse(x.FromDate, out DateTime fromdate);
+            DateTime.TryParse(x.ToDate, out DateTime toDate);
+            if (inputDate >= fromdate && inputDate <= toDate)
+            {
+                return x.TaxRate;
+            }
+
+            return 0;
+        }
+       
         public void InsertTaxes(TaxDetailsDto taxDetails)
         {
             var taxes = new TaxInfo()
